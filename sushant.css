@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Montserrat:wght@400;500;600&display=swap');
+
+body{
+    background-color:pink;
+}
+
+h1 {
+    font-size: 8rem;
+    text-align: center;
+    font-family:  sans-serif;
+    font-weight: 120;
+}
+
+h2 {
+    font-size: 5rem;
+    text-align: center;
+    font-family:  sans-serif;
+    font-weight: 120;
+}
+
+.py-24 {
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+}
+
+div#cards:hover{
+    transform: scale(1.14);
+    box-shadow: 0 8px 18px 0 rgba(0, 0.2, 0.2, 0.2);
+}
